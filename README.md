@@ -1,7 +1,7 @@
 # How To Run
-Install Dependencies
+<p>Install Dependencies</p>
 ```go mod tidy```
-Running the Server
+<p>Running the Server</p>
 ```go run server/main.go```
-Running the Client
+<p>Running the Client</p>
 ```go run client/main.go```
