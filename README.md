@@ -1,9 +1,18 @@
 # How To Run
-<p>Install Dependencies</p>
-<p>
-```go mod tidy```
-</p>
-<p>Running the Server</p>
-```go run server/main.go```
-<p>Running the Client</p>
-```go run client/main.go```
+<br>Install Dependencies</br>
+
+```
+  go mod tidy
+```
+
+<br>Running the Server</br>
+
+```
+go run server/main.go
+```
+
+<br>Running the Client</br>
+
+```
+go run client/main.go
+```
